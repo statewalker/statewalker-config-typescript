@@ -11,6 +11,7 @@
     "allowImportingTsExtensions": true,
     "inlineSources": false,
     "isolatedModules": true,
+    "target": "ESNext",
     "module": "ESNext",
     "moduleResolution": "Bundler",
     "noUnusedLocals": false,
